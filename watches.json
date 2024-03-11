@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 66",
+      "brand": "Apple",
+      "model": "Series 6",
+      "price": 399.99,
+      "description": "The latest Apple Watch featuring blood oxygen monitoring, ECG, and always-on Retina display.",
+      "category": "Smartwatch",
+      "image": "https://example.com/apple_watch_series_6.jpg",
+      "availability": true
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 3",
+      "brand": "Samsung",
+      "model": "Galaxy Watch 3",
+      "price": 349.99,
+      "description": "Premium smartwatch with advanced health features like heart rate monitoring and sleep tracking.",
+      "category": "Smartwatch",
+      "image": "https://example.com/samsung_galaxy_watch_3.jpg",
+      "availability": true
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Versa 3",
+      "brand": "Fitbit",
+      "model": "Versa 3",
+      "price": 229.95,
+      "description": "Versatile smartwatch with built-in GPS, heart rate monitoring, and voice assistant support.",
+      "category": "Smartwatch",
+      "image": "https://example.com/fitbit_versa_3.jpg",
+      "availability": true
+    },
+    {
+      "id": 4,
+      "name": "Garmin Forerunner 945",
+      "brand": "Garmin",
+      "model": "Forerunner 945",
+      "price": 599.99,
+      "description": "Advanced GPS smartwatch designed for athletes with training load and performance metrics.",
+      "category": "Smartwatch",
+      "image": "https://example.com/garmin_forerunner_945.jpg",
+      "availability": true
+    },
+    {
+      "id": 5,
+      "name": "Huawei Watch GT 2 Pro",
+      "brand": "Huawei",
+      "model": "Watch GT 2 Pro",
+      "price": 299.99,
+      "description": "Stylish and durable smartwatch with 2-week battery life and advanced health tracking capabilities.",
+      "category": "Smartwatch",
+      "image": "https://example.com/huawei_watch_gt_2_pro.jpg",
+      "availability": true
+    }
+  ]
+  
